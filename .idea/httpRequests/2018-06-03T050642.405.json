@@ -1,0 +1,7 @@
+{
+  "timestamp": "2018-06-03T14:06:42.945+0000",
+  "status": 405,
+  "error": "Method Not Allowed",
+  "message": "Request method 'POST' not supported",
+  "path": "/payment/new"
+}
